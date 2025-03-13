@@ -90,4 +90,19 @@ The different savepoints used for the validation of the model can be downloaded 
 
 ## Citation
 
-The paper is currently under review at [Machine Learning](https://link.springer.com/journal/10994).
+The paper is available in open access at [Self explainable graph convolutional recurrent network for spatio-temporal forecasting](https://link.springer.com/article/10.1007/s10994-024-06725-6).
+
+It can be cited using the following BibTex entry:
+
+```
+@article{garcia2025self,
+  title={Self explainable graph convolutional recurrent network for spatio-temporal forecasting},
+  author={Garc{\'\i}a-Sig{\"u}enza, Javier and Curado, Manuel and Llorens-Largo, Faraon and Vicent, Jose F},
+  journal={Machine Learning},
+  volume={114},
+  number={1},
+  pages={2},
+  year={2025},
+  publisher={Springer}
+}
+```
